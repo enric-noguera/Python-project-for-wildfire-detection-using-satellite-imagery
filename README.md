@@ -1,0 +1,1 @@
+# Python-project-for-wildfire-detection-using-satellite-imagery
